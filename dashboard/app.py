@@ -71,7 +71,7 @@ def main():
     ) = render_sidebar()
     
     st.sidebar.markdown("---")
-    st.sidebar.markdown("Visualization & Dashboard by AADYA")
+    st.sidebar.markdown("Visualization & Dashboard by 𝙰𝙰𝙳𝚈𝙰")
 
     # Handle button actions
     if generate_btn:
