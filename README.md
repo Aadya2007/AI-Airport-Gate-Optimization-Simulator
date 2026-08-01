@@ -124,6 +124,10 @@ GateOptimizerSim/
 
 This application uses 100% synthetic data. No confidential airport operational information is required. The architecture is designed for easy replacement of synthetic data with real airport APIs or databases.
 
+## Contributor
+
+Aadya Singh— Built the visualization layer, including gate utilization heatmaps and delay trend charts, using Plotly to make simulation results easy to interpret at a glance. 
+
 ## License
 
 Developed as an internship project for Airport Authority of India (AAI).
