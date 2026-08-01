@@ -69,6 +69,9 @@ def main():
         train_ml_btn, predict_btn, export_btn,
         quick_stats_placeholder,
     ) = render_sidebar()
+    
+    st.sidebar.markdown("---")
+    st.sidebar.markdown("Visualization by Aadya Singh")
 
     # Handle button actions
     if generate_btn:
