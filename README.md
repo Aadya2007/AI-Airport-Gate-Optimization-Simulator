@@ -1,9 +1,5 @@
 # GateOptimizer Sim
 
-## Live Demo
-
-[#live-demo](#live-demo)
-
 🔗 [View Live App](https://aadya2007-gate-optimization-sim.streamlit.app/)
 ## AI-Powered Airport Gate Allocation Decision Support System
 
